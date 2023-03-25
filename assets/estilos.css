@@ -1,0 +1,17 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#precio_total {
+    color: rebeccapurple
+}
+h3 { color: gray;
+      line-height: 5%;}
+.fondo-imagen { background-color: gray;}
+
+button {   background-color: rebeccapurple;
+height: 60px;
+width: 240px;
+color: wheat;
+font-size: 15px;
+}
